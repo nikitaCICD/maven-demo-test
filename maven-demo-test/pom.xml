@@ -4,7 +4,9 @@
   <artifactId>maven-demo-test</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <!-- https://mvnrepository.com/artifact/junit/junit -->
-
+<fork>true</fork>
+                <executable>C:\Program Files\Java\jdk1.8.0_121\bin\javac.exe</executable>
+            </configuration>
 <dependencies>
 <dependency>
     <groupId>junit</groupId>
